@@ -224,9 +224,6 @@ void handlePlayerChoice(){
                 printf("\nYou cannot go there");
             }
             break;
-        case 109:
-            printmapandlocation();
-            break;
         case 115:
             save();
             break;
