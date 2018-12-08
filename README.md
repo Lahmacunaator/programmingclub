@@ -1,4 +1,4 @@
-# programmingclub
+# Programming Club
 EUAS Game Design and Development Class of 2018's Programming Club Activity
 
 
