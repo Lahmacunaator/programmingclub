@@ -2,3 +2,7 @@ p {
     margin: 50px;
     color: dodgerblue;
 }
+p:hover{
+    color:red;
+}
+p:
